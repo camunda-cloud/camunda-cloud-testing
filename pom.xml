@@ -62,7 +62,7 @@
   </scm>
 
   <properties>
-    <dependency.agrona.version>1.23.1</dependency.agrona.version>
+    <dependency.agrona.version>2.0.1</dependency.agrona.version>
     <dependency.assertj.version>3.27.2</dependency.assertj.version>
     <dependency.awaitility.version>4.2.2</dependency.awaitility.version>
     <dependency.bytebuddy.version>1.15.11</dependency.bytebuddy.version>
