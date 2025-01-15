@@ -87,7 +87,7 @@
     <dependency.proto.version>2.50.0</dependency.proto.version>
     <dependency.protobuf.version>4.29.3</dependency.protobuf.version>
     <dependency.revapi.version>0.28.1</dependency.revapi.version>
-    <dependency.scala.version>2.13.15</dependency.scala.version>
+    <dependency.scala.version>2.13.16</dependency.scala.version>
     <dependency.slf4j.version>2.0.16</dependency.slf4j.version>
     <dependency.snakeyaml.version>2.3</dependency.snakeyaml.version>
     <dependency.spring-boot.version>3.3.7</dependency.spring-boot.version>
