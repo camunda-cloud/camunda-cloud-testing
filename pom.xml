@@ -82,7 +82,7 @@
     <dependency.junit4.version>4.13.2</dependency.junit4.version>
     <dependency.micrometer.version>1.14.2</dependency.micrometer.version>
     <dependency.mockito.version>5.15.2</dependency.mockito.version>
-    <dependency.netty.version>4.1.116.Final</dependency.netty.version>
+    <dependency.netty.version>4.1.117.Final</dependency.netty.version>
     <dependency.osgi.version>6.0.0</dependency.osgi.version>
     <dependency.proto.version>2.50.0</dependency.proto.version>
     <dependency.protobuf.version>4.29.3</dependency.protobuf.version>
