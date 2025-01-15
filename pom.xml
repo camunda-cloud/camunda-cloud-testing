@@ -80,7 +80,7 @@
     <dependency.jna.version>5.16.0</dependency.jna.version>
     <dependency.junit.version>5.11.4</dependency.junit.version>
     <dependency.junit4.version>4.13.2</dependency.junit4.version>
-    <dependency.micrometer.version>1.14.2</dependency.micrometer.version>
+    <dependency.micrometer.version>1.14.3</dependency.micrometer.version>
     <dependency.mockito.version>5.15.2</dependency.mockito.version>
     <dependency.netty.version>4.1.116.Final</dependency.netty.version>
     <dependency.osgi.version>6.0.0</dependency.osgi.version>
