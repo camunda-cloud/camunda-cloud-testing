@@ -91,7 +91,7 @@
     <dependency.slf4j.version>2.0.16</dependency.slf4j.version>
     <dependency.snakeyaml.version>2.3</dependency.snakeyaml.version>
     <dependency.spring-boot.version>3.3.7</dependency.spring-boot.version>
-    <dependency.spring.version>6.1.14</dependency.spring.version>
+    <dependency.spring.version>6.2.2</dependency.spring.version>
     <dependency.testcontainers.version>1.20.4</dependency.testcontainers.version>
     <dependency.zeebe.version>8.7.0-SNAPSHOT</dependency.zeebe.version>
 
