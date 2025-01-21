@@ -70,7 +70,7 @@
     <dependency.classgraph.version>4.8.179</dependency.classgraph.version>
     <dependency.commons.version>3.17.0</dependency.commons.version>
     <dependency.errorprone.version>2.36.0</dependency.errorprone.version>
-    <dependency.feel.version>1.19.0</dependency.feel.version>
+    <dependency.feel.version>1.19.1</dependency.feel.version>
     <dependency.findbugs.version>3.0.2</dependency.findbugs.version>
     <dependency.guava.version>33.4.0-jre</dependency.guava.version>
     <dependency.httpcore5.version>5.3.1</dependency.httpcore5.version>
