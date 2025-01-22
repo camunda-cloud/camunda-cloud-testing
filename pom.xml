@@ -122,7 +122,7 @@
     <skipChecks>false</skipChecks>
 
     <!-- Note: needs to be aligned with the version used by io.camunda:camunda-client-java -->
-    <version.grpc>1.69.0</version.grpc>
+    <version.grpc>1.70.0</version.grpc>
     <version.java>21</version.java>
     <version.protobuf>4.29.2</version.protobuf>
   </properties>
